@@ -30,3 +30,11 @@ def test_move_to_empty_space():
     assert board.count('x') == 1
     assert board.count('-') == 19
     
+
+
+# Answers to questions: 
+    # Python module = one file; python package as multiple files/ python packages are made up of modules
+    # 
+    # Exceptions as a way to program specific kinds of errors into code to anticipate a problem that might come up for the user. 
+    #
+    # Benefits of testing: 
